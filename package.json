@@ -8,7 +8,7 @@
   "dev": "concurrently \"vite\" \"nodemon server/index.js\"",
   "client": "vite",
   "server": "nodemon server/index.js",
-  "build": "vite",
+  "build": "vite build",
   "preview": "vite preview"
 },
   "dependencies": {
